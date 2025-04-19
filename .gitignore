@@ -1,0 +1,5 @@
+*.csproj
+*.dll
+*.sln
+**/UnitySourceGeneratedAssemblyMonoScriptTypes*.cs
+**/*JobReflectionRegistrationOutput*.cs
