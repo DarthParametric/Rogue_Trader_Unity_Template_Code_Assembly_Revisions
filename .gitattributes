@@ -1,0 +1,2 @@
+# Force .cs to be detected as C#
+*.cs linguist-language=C#
